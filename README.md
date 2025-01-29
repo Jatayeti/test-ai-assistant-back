@@ -19,7 +19,7 @@ Make sure you have the following installed on your system:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-repo/ai-assistant-backend.git
+   git clone https://github.com/Jatayeti/test-ai-assistant-back.git
    cd ai-assistant-backend
    ```
 
