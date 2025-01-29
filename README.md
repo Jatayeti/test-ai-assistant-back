@@ -20,7 +20,7 @@ Make sure you have the following installed on your system:
 
    ```sh
    git clone https://github.com/Jatayeti/test-ai-assistant-back.git
-   cd ai-assistant-backend
+   cd test-ai-assistant-back
    ```
 
 2. Install dependencies:
